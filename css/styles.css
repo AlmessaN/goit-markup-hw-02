@@ -3,6 +3,9 @@ body {
   font-family: 'Raleway' sans-serif; 
   color: #212121;
   }
+  li {
+    display: block;
+  }
 .web {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -26,7 +29,7 @@ body {
   font-size: 14px;
   line-height: 1.17;
   text-decoration: none;
-}
+  }
 .stud:hover {
   color: #2196F3
 }
